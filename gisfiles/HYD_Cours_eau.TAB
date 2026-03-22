@@ -1,0 +1,28 @@
+!table
+!version 700
+!charset WindowsLatin1
+
+Definition Table
+  Type SHAPEFILE Charset "WindowsLatin1"
+  Fields 4
+    Regime Char (50) ;
+    Type Char (50) ;
+    Nom Char (50) ;
+    Shape_leng Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\Shapefile" = ""
+"\Shapefile\PersistentCache" = "FALSE"
+"\Spatial Reference" = ""
+"\Spatial Reference\Geographic" = ""
+"\Spatial Reference\Geographic\Projection" = ""
+"\Spatial Reference\Geographic\Projection\Clause" = "CoordSys Earth Projection 1, 104"
+"\DefaultStyles" = ""
+"\DefaultStyles\LinePen" = ""
+"\DefaultStyles\LinePen\LineWidth" = "1"
+"\DefaultStyles\LinePen\LineStyle" = "0"
+"\DefaultStyles\LinePen\Color" = "0"
+"\DefaultStyles\LinePen\Pattern" = "2"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "c4e946b0-43d0-4404-a5bf-b87020bcf5e1"
+end_metadata
