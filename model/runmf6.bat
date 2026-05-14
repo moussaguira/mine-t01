@@ -1,0 +1,1 @@
+mf6.exe minet01.bat
